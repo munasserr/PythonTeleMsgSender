@@ -71,3 +71,13 @@ python PythonTeleMsgSender.py
 
 ![Screenshot 2023-09-24 aa150451](https://github.com/munasserr/PythonTeleMsgSender/assets/107954461/4b046998-5827-4863-9bdc-a6bb28738ba8)
 
+1. **Enter API ID and API Hash Key you get before starting**
+
+   If you don't already have them ,Please go back to the Getting Started section.
+
+2. **Enter The Phone Number With Country Code**
+
+   - Click on the "Create Application" button.
+
+
+
