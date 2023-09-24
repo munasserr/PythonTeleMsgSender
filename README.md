@@ -42,6 +42,7 @@ Before you can use PythonTeleMsgSender, you'll need to obtain the required Teleg
    - After creating the application, you'll be taken to a page with your application's details.
 
    ![Screenshot 2023-09-24 141626](https://github.com/munasserr/PythonTeleMsgSender/assets/107954461/d0460aa3-3aa2-48f3-8683-b08a5aea4924)
+   ![Screenshot 2023-09-24 141626](https://github.com/munasserr/PythonTeleMsgSender/assets/107954461/4f503bd0-9d3d-444e-90a2-bb58abcf9308)
 
    - Note down the **App API ID** and **App API Hash**. You'll need these credentials to configure PythonTeleMsgSender.
 
