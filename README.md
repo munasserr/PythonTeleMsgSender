@@ -77,7 +77,47 @@ python PythonTeleMsgSender.py
 
 2. **Enter The Phone Number With Country Code**
 
-   - Click on the "Create Application" button.
+   Enter the phone number associated with your telegram account.
 
+3. **Enter The OTP That Has Been Sent To Your Number**
+
+   You will get a message w with an otp number , Please provide it so you can log in to start broadcasting your messages.
+   
+3. **Enter Your Custom Message**
+   Enter your specified message , It can be anything [Announcements ,Advertising ,etc..].
+
+
+4. **Get And Provide Your User ID To Start Sending Messages**
+
+   After you signed in , now you need to get your user id to continue.
+   
+   ##### How To Get It :
+   - Open Telegram From Your Browser
+   - Go To Your Own Chat
+   - Via Url You Will Find It As Specfied In The Picture
+     ![Screenshot 2023-09-24 152007](https://github.com/munasserr/PythonTeleMsgSender/assets/107954461/b274bed3-8d43-447b-ad33-fba1318ccce9)
+
+5. **Get And Provide The Targted Group ID**
+   The same way we got the user id , we're gonna open the group chat and then copy the group id via url.
+
+6. **It's Show Time**
+   Now it's show time , just wait till the specfied group members scraped and the custom message you entered is sent to all that group members.
+   
+## Contributing
+
+ ### Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+   - Fork the project.
+   - Create your feature branch: git checkout -b feature/new-feature.
+   - Commit your changes: git commit -m 'Add new feature'.
+   - Push to the branch: git push origin feature/new-feature.
+   - Submit a pull request.
+
+## License
+
+Distributed under the [MIT License](LICENSE). See LICENSE for more information.
+
+## Contact
+
+##### If you have any questions or suggestions, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/munasser/).
 
 
